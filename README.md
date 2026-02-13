@@ -1,3 +1,11 @@
+<p align="center"><strong>Built run commands by developers, for developers.</strong></p>
+
+<p align="center">
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ac3a20f2-0dbe-468e-8cf4-059b4e16c5e5" />
+</p>
+
+---
+
 # Docker Run Basics
 
 This repository provides a clear and practical explanation of how docker run works and what actually happens behind the scenes when a container starts.
@@ -12,8 +20,6 @@ The objective is to build a solid mental model of container execution. Instead o
 Understanding docker run is essential because it represents the bridge between static images and running workloads. Every higher-level abstraction in Docker (Compose, Swarm) or even Kubernetes ultimately depends on this core container execution model.
 
 The examples in this repository are intentionally minimal to emphasize clarity and behavior over complexity.
-
----
 
 ## Table of Contents
 
